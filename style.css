@@ -1,0 +1,56 @@
+body
+{
+    margin: 0 auto;
+    width:80%;
+    background-image: url("background.jpg");
+    color: white;
+
+}
+h1
+{
+	padding-top: 25px;
+	text-align: center;
+	font-family:serif, Times;
+	/* "Times New Roman", Times,*/ 
+	font-size: 50px;
+}
+form
+{
+	padding-top: 40px;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], input 
+{
+ 	
+}
+p
+{
+	text-align: center;
+	font-family: verdana, serif, Times;
+}
+#size
+{
+	padding-bottom: 25px;
+}
+#toppings
+{
+	padding-bottom: 25px;
+}
+
+.cancelButtonContainer
+{
+	padding-top: 25px;
+}
+.btn-primary
+{
+	padding: 12px 50px;
+    font-size: 20px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
+legend
+{
+	color:white;
+}
